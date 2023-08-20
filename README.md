@@ -22,7 +22,7 @@ This backend solution uses an Object Relational Mapping (ORM) approach to connec
     - POST, PUT, and DELETE routes can be tested to create, update, or delete data in the database respectively.
 
 ## Setup Instructions
-![Demo GIF](https://example.com/path/to/your/demo.gif)
+![Demo GIF](https://github.com/rishavpandey02/Object-Relational-Mapping-ORM-E-Commerce-Back-End/blob/master/Gif/Week13-ORM-GIF.gif)
 
 ### Prerequisites
 
